@@ -1,3 +1,7 @@
+/*Este programa nos ayuda a verificar cual es el modo 
+ * en el que trabaja la maquina es decir si la pc 
+ * emplea radianes o grados para operar*/
+
 #include <iostream>
 #include <cmath>
 

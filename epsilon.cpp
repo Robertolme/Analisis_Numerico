@@ -1,3 +1,8 @@
+/* 			epsilon.cpp
+ * Este programa sirve para determinar el 0 de la maquina es decir
+ * la precicion que tiene la maquina para determinar el 0
+ */
+
 #include <iostream>
 #include <limits>
 

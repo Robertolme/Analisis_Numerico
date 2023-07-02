@@ -1,3 +1,11 @@
+ /* 		Biseccion_sucesiva.cpp
+ * Este programa permite determinar las raices de una fucion 
+ * utilizando el metodo de Bisecciones Sucesivas de la funcion
+ * "4 x^3 + 5 x^ 2 - 3x - 2" en un itervalo definido por el 
+ * usuario.
+ */
+
+
 #include <iostream>
 #include <cmath>
 

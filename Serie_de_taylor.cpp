@@ -1,3 +1,9 @@
+/* 		Serie_de_taylor.cpp
+ * Este programa nos sirve para aproximar la serie de taylor
+ * de la funcion e^1 usando n iteraciones definidas por el usuario. 
+ *
+ */
+
 #include <iostream>
 #include <cmath>
 
